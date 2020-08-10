@@ -1,0 +1,5 @@
+.counter .counterDisplay {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.counter {
+    position: relative;
+    border: 1px solid darkblue;
+    padding: 30px;
+    width: 300px;
+    left: 0;
+    right: 0;
+    margin: 30px auto;
+}
+ 
+.counter span.value {
+    margin-left: 10px;
+}
+ 
+.counter .show-clock {
+    display: inline-block;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-size: 10px;
+    color: lightcoral;
+}
+ 
